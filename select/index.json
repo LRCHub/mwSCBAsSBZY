@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オモワクドオリ",
+  "base_artist": "ナオト・インティライミ",
+  "createdAt": "2026-03-13T14:59:24.248229Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オモワクドオリ",
+      "artist": "ナオト・インティライミ",
+      "has_synced": false,
+      "path": "select/pl_01_オモワクドオリ_ナオト・インティライミ.txt"
+    }
+  ]
+}
